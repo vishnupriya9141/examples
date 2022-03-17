@@ -1,6 +1,6 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World!"); 
-        Syatem.out.println("Hello");
+        System.out.println("Hello"); 
+        Syatem.out.println("Welcome to DevOps lab!");
     }
 }
